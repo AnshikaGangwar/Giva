@@ -9,5 +9,12 @@
         font-weight: 100;
         color: #3d4246;
         font-size: 40px;
+    };
+    .header-icons-container{
+        margin-top: 1rem;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        width: 6rem;
     }
 }
